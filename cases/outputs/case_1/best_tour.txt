@@ -1,0 +1,9 @@
+Total Revenue −−> 10240
+Torium_Sahne		5.05		9.05
+Cevahir_Salon		10.05		14.05
+Trump_Sahne		14.05		17.05
+Cevahir_Salon		17.05		22.05
+Torium_Sahne		24.05		30.05
+Trump_Sahne		1.06		8.06
+Trump_Sahne		11.06		16.06
+Trump_Sahne		19.06		24.06

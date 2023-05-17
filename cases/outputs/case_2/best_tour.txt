@@ -1,0 +1,13 @@
+Total Revenue −−> 24225
+kotu_ruh		1.05		7.05
+mario		7.05		12.05
+uclu_puruz		12.05		16.05
+mario		16.05		20.05
+john_wick		24.05		28.05
+mario		29.05		1.06
+mario		3.06		7.06
+john_wick		7.06		11.06
+mario		11.06		16.06
+kotu_ruh		16.06		19.06
+mario		19.06		24.06
+john_wick		24.06		29.06
